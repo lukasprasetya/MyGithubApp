@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsumerApp</string>
+
+    <string name="fav_user">Pengguna Favorit Saya</string>
+    <string name="notif">Pengaturan Notifikasi</string>
+    <string name="reminder">Pengingat pada pukul 09:00</string>
+    <string name="repeat_message">Mari Temukan Pengguna Populer di Github !!!</string>
+    <string name="lukas_prasetya">Lukas Prasetya</string>
+    <string name="lukasprasetya">lukasprasetya</string>
+    <string name="new_york_ny">New York, NY</string>
+    <string name="company">Perusahaan</string>
+    <string name="repository">Penyimpanan</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="google">Google</string>
+    <string name="_24">24</string>
+    <string name="search">Cari</string>
+    <string name="change_language_setting">Ubah Bahasa Pengaturan</string>
+
+</resources>

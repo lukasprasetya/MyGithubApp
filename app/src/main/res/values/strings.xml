@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Github App</string>
+    <string name="fav_user">My Favorite User</string>
+    <string name="notif">Notification Setting</string>
+    <string name="reminder">Reminder at 09:00 AM</string>
+    <string name="repeat_message">Lets Find Popular User on Github!!!</string>
+    <string name="lukas_prasetya">Lukas Prasetya</string>
+    <string name="lukasprasetya">lukasprasetya</string>
+    <string name="new_york_ny">New York, NY</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="google">Google</string>
+    <string name="_24">24</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="search">Search</string>
+    <string name="change_language_setting">Change Language Setting</string>
+    <string name="appwidget_text">Favorite User</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_widget">NO DATA</string>
+    <string name="favorite">Favorite</string>
+
+</resources>

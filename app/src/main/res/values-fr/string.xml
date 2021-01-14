@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Github App</string>
+    <string name="fav_user">Mon Utilisateur Préféré</string>
+    <string name="notif">Paramètre de Notification</string>
+    <string name="reminder">Rappel à 09:00</string>
+    <string name="repeat_message">Permet de trouver un utilisateur populaire sur Github !!!</string>
+    <string name="lukas_prasetya">Lukas Prasetya</string>
+    <string name="lukasprasetya">lukasprasetya</string>
+    <string name="new_york_ny">New York, NY</string>
+    <string name="company">Entreprise</string>
+    <string name="repository">Dépôt</string>
+    <string name="follower">Disciple</string>
+    <string name="following">Suivant</string>
+    <string name="google">Google</string>
+    <string name="_24">24</string>
+    <string name="search">Chercher</string>
+    <string name="change_language_setting">Changer le paramètre de langue</string>
+    <string name="appwidget_text">Favorite User</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_widget">NO_DATA</string>
+</resources>
